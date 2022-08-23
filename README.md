@@ -1,7 +1,7 @@
 
 ## Authors
 
-- [@kovacevica9](https://www.github.com/octokatherine)
+- [@kovacevica9](https://www.github.com/kovacevica9)
 
 
 ## Tools
