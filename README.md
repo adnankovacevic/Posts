@@ -9,4 +9,4 @@
 - Kotlin Coroutines
 - Hilt
 - Retrofit
-- Lifecyle
+- Lifecycle
